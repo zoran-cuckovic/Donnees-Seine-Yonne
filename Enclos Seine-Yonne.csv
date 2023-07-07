@@ -1,0 +1,426 @@
+Num.;Site;Lieu-dit;Structure;Type;Néo;BA-BM;BF 1;BF 2;BF 3 / Ha anc.;Fer 1;Diamètre (m);TEST;DATE MIN;Taille non-concentrique;Orientation de l’entrée (deg);Commentaire;Coordonnées (Lamb93);Zone privilegié;Bibliographie
+2;Balloy;Les Réaudins;Enclos BF;Enclos circulaire;;;;;;;14;14.0000001;ND;;;;712178, 6810306;;Gouge, Mordant et al. 1994
+1;Balloy;Bois de Roselle;St 47;Enclos circulaire;;;*;;;;12;12.0000001;BF1;;;;710310, 6813073;;Mahé et al. 1998
+3;Balloy;Les Réaudins;Enclos BF;Enclos circulaire;;;;*;;;11.5;11.5000001;BF2;;153.2;Indice de recreusement du fossé;712431, 6810787;;Gouge, Mordant et al. 1994
+8;Barbey;Le Chemin de Monterau / Le Buisson Rond;E 1;Double enclos circulaire;;;;;;;22;22.0000001;ND;;;;702780, 6807360;;"Renaud & Gouge 1992; Gouge, Mordant et al. 1994"
+4;Barbey;Le Chemin de Monterau / Le Buisson Rond;E 6;Enclos circulaire;;;;;;;21.2;21.2000001;ND;;;Enclos à double entrée;702362, 6807327;;"Renaud & Gouge 1992; Gouge, Mordant et al. 1994"
+11;Barbey;Le Chemin de Monterau / La Haute Guyonne;E 5;Enclos circulaire;;;;;;;20;20.0000001;ND;;121.3;;702351, 6807670;;"Renaud & Gouge 1992; Gouge, Mordant et al. 1994"
+5;Barbey;Le Chemin de Monterau / Le Buisson Rond;E 7;Enclos circulaire;;;;;;;18.5;18.5000001;ND;;;;702488, 6807321;;"Renaud & Gouge 1992; Gouge, Mordant et al. 1994"
+9;Barbey;Le Chemin de Monterau / Le Buisson Rond;E 2;Enclos circulaire interne;;;;;;;13.8;13.8000001;ND;;106.2;A l'intérieur de l'E 1;702777, 6807356;;"Renaud & Gouge 1992; Gouge, Mordant et al. 1994"
+10;Barbey;Le Chemin de Monterau / La Haute Guyonne;E 4;Enclos circulaire;;;;;;;12;12.0000001;ND;;129.5;;702280, 6807727;;"Renaud & Gouge 1992; Gouge, Mordant et al. 1994"
+7;Barbey;Le Chemin de Monterau / Le Buisson Rond;E 3;Enclos circulaire;;;;;;;11.1;11.1000001;ND;;125.2;;702633, 6807347;;"Renaud & Gouge 1992; Gouge, Mordant et al. 1994"
+6;Barbey;Le Chemin de Monterau / Le Buisson Rond;E 8;Enclos circulaire;;;;;;;7;7.0000001;ND;;;;702504, 6807370;;"Renaud & Gouge 1992; Gouge, Mordant et al. 1994"
+31;Barbuise-Courtavant;Les Grèves de Villeneuve;E 5;Enclos allongé;;;;;*;;60;60.0000001;BF3;;164.1;Mobilier gallo-romain dans le fossé;743797, 6827887;;"Piette 1999; Chertier 1976b"
+30;Barbuise-Courtavant;Les Grèves de Villeneuve;E 3;Enclos allongé;;;;;*;;45;45.0000001;BF3;;166.3;;743767, 6827937;;Piette 1971
+21;Barbuise-Courtavant;Les Grèves de Villeneuve;E 18;Enclos circulaire;;;;;;;27;27.0000001;ND;;78.1;;743523, 6827830;;Piette 1999
+37;Barbuise-Courtavant;Les Grèves de Villeneuve;E 44 e;Double enclos circulaire;;;;;*;;25;25.0000001;BF3;;;Datation : BF 2 ou 3;743984, 6827979;;"Piette & Mordant 1988; Piette 1999"
+20;Barbuise-Courtavant;Les Grèves de Frécul;E 6;Enclos circulaire;;;*;;;;25;25.0000001;BF1;;147.8;;740373, 6826686;;"Piette 1999; Rottier et al. 2012"
+25;Barbuise-Courtavant;Les Grèves de Villeneuve;E 6;Enclos allongé;*;;;;*;;23;23.0000001;BF3;;184;;743713, 6827935;;Piette 1972
+15;Barbuise-Courtavant;Les Grèves;E 2;Enclos circulaire;;;?;;;;21;21.0000001;ND;;;Probablement BF 1;741850, 6827520;;Lemoine & Sénéchal 1965
+22;Barbuise-Courtavant;Les Grèves de Villeneuve;E 24;Enclos circulaire;;;*;;;;21;21.0000001;BF1;;125.1;Datation hypothétique;743665, 6827761;;Piette 1999
+40;Barbuise-Courtavant;Les Grèves de Villeneuve;E 49;Enclos circulaire;;;*;;;;20;20.0000001;BF1;;160.8;;744265, 6827919;;Piette 1999
+35;Barbuise-Courtavant;Les Grèves de Villeneuve;E 29;Enclos circulaire;;;;;*;;19.5;19.5000001;BF3;;149.1;Datation hypothétique;743901, 6827766;;"Piette 1999; Chertier 1976b"
+17;Barbuise-Courtavant;Les Grèves de Frécul;E 7;Enclos circulaire;;;;;;;18.4;18.4000001;ND;;110.2;;740296, 6826743;;"Piette 1999; Rottier et al. 2012"
+39;Barbuise-Courtavant;Les Grèves de Villeneuve;E 33;Enclos circulaire;;;;;;;18;18.0000001;ND;;;;744101, 6827745;;"Piette 1999; Denajar 2005, 621"
+14;Barbuise-Courtavant;Les Grèves;E 1;Enclos circulaire;;;*;;;;17.8;17.8000001;BF1;;146.9;;741970, 6827524;;Lemoine & Sénéchal 1964
+16;Barbuise-Courtavant;Les Grèves;E 5;Enclos circulaire;;;;;;;17.5;17.5000001;ND;;58.9;Localisation problématique;742010, 6827473;;Piette 1999
+13;Barbuise-Courtavant;Les Grèves;E 6;Enclos circulaire;;;*;;;;17;17.0000001;BF1;;120.8;Sépulture dite « Morel » ;741886, 6827517;;"Piette 1999; Rottier et al. 2012, 696"
+33;Barbuise-Courtavant;Les Grèves de Villeneuve;E 12;Enclos circulaire;;;;*;*;*;17;17.0000001;BF2;;192.5;;743824, 6827944;;"Piette 1999; Chertier 1976b"
+36;Barbuise-Courtavant;Les Grèves de Villeneuve;E 44 i;Enclos circulaire interne;;;;*;*;;17;17.0000001;BF2;;171.1;;743984, 6827978;;"Piette & Mordant 1988; Piette 1999"
+28;Barbuise-Courtavant;Les Grèves de Villeneuve;E 2;Enclos circulaire;;;;;*;;16;16.0000001;BF3;;157.7;;743754, 6827915;;Piette 1971
+29;Barbuise-Courtavant;Les Grèves de Villeneuve;E 1;Enclos circulaire;;;;;*;;16;16.0000001;BF3;;151.5;;743764, 6827861;;Piette 1971
+34;Barbuise-Courtavant;Les Grèves de Villeneuve;E 14;Enclos circulaire;;;;;;;15.5;15.5000001;ND;;155.1;;743828, 6827835;;"Piette 1999; Chertier1978"
+18;Barbuise-Courtavant;Les Grèves de Frécul;NN;Enclos circulaire;;;;;;;13.1;13.1000001;ND;;244.2;;740334, 6826666;;Rottier et al. 2012
+32;Barbuise-Courtavant;Les Grèves de Villeneuve;E 13;Enclos circulaire;;;;;*;;12.5;12.5000001;BF3;;154.1;;743807, 6827833;;"Piette 1999; Chertier 1978"
+38;Barbuise-Courtavant;Les Grèves de Villeneuve;E 45;Enclos circulaire;;;;;*;*;12;12.0000001;BF3;;;;744007, 6827986;;Piette 1999
+23;Barbuise-Courtavant;Les Grèves de Villeneuve;E 51;Enclos circulaire;;;;;*;;9.5;9.5000001;BF3;;170.2;Diamètre donné par Piette (1999) n’est pas en accord avec le plan (17 - 18 m);743712, 6827855;;Piette 1999
+19;Barbuise-Courtavant;Les Grèves de Frécul;NN;Enclos circulaire;;;;;;;7;7.0000001;ND;;237.6;;740336, 6826698;;Rottier et al. 2012
+12;Barbuise-Courtavant;Gargoulottes;UA 2;Enclos circulaire;;;;*;;;6.6;6.6000001;BF2;;;;740421, 6826185;;Poirier 2016
+27;Barbuise-Courtavant;Les Grèves de Villeneuve;E 4;Enclos circulaire;;;;;*;;6;6.0000001;BF3;;178.3;;743743, 6827935;;Piette 1972
+26;Barbuise-Courtavant;Les Grèves de Villeneuve;E 7;Tumulus;;;;;*;;6;6.0000001;BF3;;;;743714, 6827869;;Piette 1999
+24;Barbuise-Courtavant;Les Grèves de Villeneuve;E7 bis;Tumulus;;;;;*;;4.5;4.5000001;BF3;;;;743712, 6827874;;Piette 1999
+42;Bazoches-lès-Bray;Champs Virlois;St 11;Enclos circulaire;;*;;;;;29;29.0000001;BAM;;;Mobilier gallo-romain dans le fossé;714448, 6812815;;Valero et al. 2008
+51;Bazoches-lès-Bray;La Nue Noire / Le Port du Canal;St 474;Enclos circulaire;;*;;;;;25;25.0000001;BAM;;;Datation incertaine;713666, 6812538;;Poyeton 1998
+41;Bazoches-lès-Bray;Champs Virlois;St 3;Enclos circulaire;;*;;;;;17.5;17.5000001;BAM;;;;714420, 6812811;;Valero et al. 2008
+43;Bazoches-lès-Bray;Champs Virlois;St 5;Enclos circulaire;;;;;;;16.6;16.6000001;ND;;86.5;;714482, 6812816;;Valero et al. 2008
+57;Bazoches-lès-Bray;Les Champs Courceaux / Le Grand Mort / La Grande Pièce;St. 102 b;Double enclos circulaire;;;;;;;14;14.0000001;ND;;;;713429, 6813428;;Valero 2006
+54;Bazoches-lès-Bray;Les Champs Courceaux / Le Grand Mort / La Grande Pièce;St. 104;Enclos circulaire;;;;;;;13.9;13.9000001;ND;;;;713384, 6813422;;Valero 2006
+55;Bazoches-lès-Bray;Les Champs Courceaux / Le Grand Mort / La Grande Pièce;St. 101;Enclos circulaire;;;;;;;11.6;11.6000001;ND;;;;713420, 6813447;;Valero 2006
+45;Bazoches-lès-Bray;La Nue Noire / Le Port du Canal;St 332;Enclos circulaire;;;;;;;11;11.0000001;ND;;140.2;;713597, 6812578;;Poyeton 1998
+49;Bazoches-lès-Bray;La Nue Noire / Le Port du Canal;St 446;Enclos circulaire;;;;;;;9.4;9.4000001;ND;;;;713641, 6812566;;Poyeton 1998
+53;Bazoches-lès-Bray;Les Champs Courceaux / Le Grand Mort / La Grande Pièce;St. 400;Enclos circulaire;;;;;;;9.4;9.4000001;ND;;;;713349, 6813579;;Valero 2006
+52;Bazoches-lès-Bray;Les Champs Courceaux / Le Grand Mort / La Grande Pièce;St. 401;Enclos circulaire;;;;;;;8.4;8.4000001;ND;;;;713316, 6813579;;Valero 2006
+56;Bazoches-lès-Bray;Les Champs Courceaux / Le Grand Mort / La Grande Pièce;St. 102 a;Enclos circulaire interne;;;;;;;8.2;8.2000001;ND;;;A l’intérieur de la St. 102b;713429, 6813428;;Valero 2006
+47;Bazoches-lès-Bray;La Nue Noire / Le Port du Canal;St 405;Enclos circulaire;;;;;;;7;7.0000001;ND;;;;713616, 6812547;;Poyeton 1998
+50;Bazoches-lès-Bray;La Nue Noire / Le Port du Canal;St 448;Enclos circulaire;;;;;;;6.4;6.4000001;ND;;;;713652, 6812557;;Poyeton 1998
+44;Bazoches-lès-Bray;La Nue Noire / Le Port du Canal;St 314;Enclos circulaire;;;;;;;6.3;6.3000001;ND;;;;713570, 6812601;;Poyeton 1998
+48;Bazoches-lès-Bray;La Nue Noire / Le Port du Canal;St 406;Enclos circulaire;;;;;;;6.3;6.3000001;ND;;;;713637, 6812550;;Poyeton 1998
+46;Bazoches-lès-Bray;La Nue Noire / Le Port du Canal;St 380;Enclos circulaire;;;;;;;5.9;5.9000001;ND;;;;713604, 6812542;;Poyeton 1998
+58;Bazoches-lès-Bray;Les Champs Courceaux / Le Grand Mort / La Grande Pièce;St. 103;Enclos circulaire;;;;;;;5.9;5.9000001;ND;;;;713437, 6813453;;Valero 2006
+59;Bazoches-lès-Bray;Les Demi-Arpents;E 105;Enclos circulaire;;;;;;;4;4.0000001;ND;;;;714758, 6813521;;Adrot 2007
+60;Cannes-Ecluse;Le Cimitière aux Vaches;E 1;Enclos circulaire;;;;;;;22;22.0000001;ND;;176.9;;698067, 6807758;;Bailloud 1967, 308ff
+75;Chatenay-sur-Seine;Les Pâtures;E 27;Enclos circulaire;;;;;;;30;30.0000001;ND;;67.7;;708039, 6813192;;Gouge, Mordant et al. 1994
+76;Chatenay-sur-Seine;Les Pâtures;E 26;Enclos circulaire;;;;;;;27;27.0000001;ND;;;;708088, 6813231;;Gouge, Mordant et al. 1994
+74;Chatenay-sur-Seine;Les Gobillons;E 5;Enclos circulaire;;;;;;;20;20.0000001;ND;;;;709169, 6812536;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+78;Chatenay-sur-Seine;Les Pâtures;E 29;Enclos circulaire;;;;;;;17.8;17.8000001;ND;;169.2;;708139, 6813190;;Gouge, Mordant et al. 1994
+71;Chatenay-sur-Seine;Les Gobillons;E 4;Enclos rectangulaire;;;;;*;;17.2;17.2000001;BF3;;153.3;;709129, 6812546;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+83;Chatenay-sur-Seine;Les Pâtures;E 22;Enclos circulaire;;;;;;;17;17.0000001;ND;;138.7;;708264, 6813169;;Gouge, Mordant et al. 1994
+85;Chatenay-sur-Seine;Les Pâtures;E 21;Double enclos circulaire;;;;;;;16.8;16.8000001;ND;;174;Le fossé secondaire empiète sur le fossé primitif;708280, 6813148;;Gouge, Mordant et al. 1994
+80;Chatenay-sur-Seine;Les Pâtures;E 31;Double enclos circulaire;;;;;;;16.7;16.7000001;ND;;187.5;;708193, 6813156;;Gouge, Mordant et al. 1994
+64;Chatenay-sur-Seine;Les Gobillons;E 3;Enclos circulaire;;;;;;;14;14.0000001;ND;;322;;709085, 6812574;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+82;Chatenay-sur-Seine;Les Pâtures;E18;Enclos circulaire;;;;*;;;13.8;13.8000001;BF2;;150;;708256, 6813139;;Gouge, Mordant et al. 1994
+84;Chatenay-sur-Seine;Les Pâtures;E 19;Enclos circulaire;;;;;;;13.2;13.2000001;ND;;91.7;;708266, 6813121;;Gouge, Mordant et al. 1994
+73;Chatenay-sur-Seine;Les Gobillons;E 6;Enclos circulaire;;;;;;;12.3;12.3000001;ND;;111;;709148, 6812579;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+61;Chatenay-sur-Seine;La Rigoulotte;E 1 / St. 73;Enclos circulaire;;;;*;;;12;12.0000001;BF2;;33.3;;706178, 6812166;;"Gouge, Mordant et al. 1994; Mahé 1996a"
+69;Chatenay-sur-Seine;Les Gobillons;E 9;Enclos quadrangulaire;;;;;;*;11.7;11.7000001;FE1;;188.2;Entouré d’un enclos circulaire;709125, 6812528;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+77;Chatenay-sur-Seine;Les Pâtures;E 28;Enclos circulaire;;;;;;;11;11.0000001;ND;;116.9;;708106, 6813168;;Gouge, Mordant et al. 1994
+72;Chatenay-sur-Seine;Les Gobillons;E 2;Enclos quadrangulaire;;;;;;*;11;11.0000001;FE1;;139.5;;709130, 6812600;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+67;Chatenay-sur-Seine;Les Gobillons;E 8;Enclos circulaire;;;;;;;10.8;10.8000001;ND;;;;709111, 6812540;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+79;Chatenay-sur-Seine;Les Pâtures;E 30;Enclos circulaire;;;;;;;10.3;10.3000001;ND;;19.2;;708154, 6813176;;Gouge, Mordant et al. 1994
+68;Chatenay-sur-Seine;Les Gobillons;E 7;Enclos circulaire;;;;;*;;8.5;8.5000001;BF3;;190.2;;709111, 6812569;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+81;Chatenay-sur-Seine;Les Pâtures;E 17;Enclos circulaire;;;;;;;7.7;7.7000001;ND;;182.9;;708252, 6813126;;Gouge, Mordant et al. 1994
+63;Chatenay-sur-Seine;Les Gobillons;E 12;Enclos circulaire;;;;;;;5;5.0000001;ND;;;;709081, 6812542;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+62;Chatenay-sur-Seine;La Rigoulotte;St. 8;Enclos circulaire;;;;;;;4.5;4.5000001;ND;;;;706537, 6812287;;Mahé 1996a
+65;Chatenay-sur-Seine;Les Gobillons;E 11;Enclos circulaire;;;;;;;2.7;2.7000001;ND;;143.3;Le plus petit enclos circulaire du corpus;709095, 6812541;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+70;Chatenay-sur-Seine;Les Gobillons;E 10;Enclos circulaire;;;;;;;;0.0000001;ND;;234.6;;709126, 6812528;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+66;Chatenay-sur-Seine;Les Gobillons;E 1;Enclos quadrangulaire;;;;;;*;;0.0000001;FE1;;;Enclos incomplet;709110, 6812629;;"Bontillot et al. 1975; Gouge, Mordant et al. 1994"
+88;Courcelles en Bassée;Le Bois de Bailly;Tumulus 1;Tumulus;;;;;;*;30;30.0000001;FE1;;;hauteur 1.5;702569, 6812618;;Gouge, Mordant et al. 1994
+86;Courcelles en Bassée;Le Bois de Bailly;Tumulus 2;Tumulus;;;;;;*;12;12.0000001;FE1;;;;702303, 6812570;;Gouge, Mordant et al. 1994
+87;Courcelles en Bassée;Le Bois de Bailly;NN;Tumulus;;;;;;*;;0.0000001;FE1;;;Détruit au XIXe s., données peu fiables;702444, 6812593;;Gouge, Mordant et al. 1994
+92;Courlon;Croix St. Pierre;E 4;Enclos circulaire;;;;;;;22;22.0000001;ND;;;Idem E1;713279, 6804136;;Carré & Mordant 1988
+91;Courlon;Croix St. Pierre;E 3;Enclos circulaire;;;;;;;12.5;12.5000001;ND;;;Idem E1;713278, 6804151;;Carré & Mordant 1988
+89;Courlon;Croix St. Pierre;E 1;Enclos circulaire;;;;;;;10.5;10.5000001;ND;;;Orientation de l’ouverture ne peut être déduite d’après le plan publié;713278, 6804188;;Carré & Mordant 1988
+90;Courlon;Croix St. Pierre;E 2;Enclos circulaire;;;;;;;10;10.0000001;ND;;;Idem E1;713275, 6804168;;Carré & Mordant 1988
+93;Egliny;La Pêcherie;E 1;Enclos circulaire;;*;;;;;7;7.0000001;BAM;;;;710292, 6814275;;"Gouge 2005a ; Gouge & Peake 2005"
+94;Egliny;La Pêcherie;E 2;Enclos circulaire;;*;;;;;6.5;6.5000001;BAM;;;;710306, 6814287;;"Gouge 2005a ; Gouge & Peake 2005"
+95;Egliny;La Pêcherie;E 3;Enclos circulaire;;;;;;;6;6.0000001;ND;;;;710314, 6814293;;"Gouge 2005a ; Gouge & Peake 2005"
+97;Estissac;La Côte d'Ervaux;NN;Double enclos circulaire;;;;;;;34;34.0000001;ND;;;;761094, 6797592;;Deffressigne & Villes 1995
+96;Estissac;La Côte d'Ervaux;NN;Enclos circulaire interne;;;;;;;20;20.0000001;ND;;;;761093, 6797593;;Deffressigne & Villes 1995
+100;Etigny;Brassot ouest;E 103;Enclos circulaire;;;*;;;;19.5;19.5000001;BF1;;;;721648, 6782995;;Roscio 2011
+99;Etigny;Brassot ouest;E 66;Enclos circulaire;;;;;;;7.8;7.8000001;ND;;59.6;;721639, 6782937;;Roscio 2011
+98;Etigny;Brassot ouest;E 102;Enclos circulaire;;;;;;;7.3;7.3000001;ND;;146.4;;721632, 6782966;;Roscio 2011
+104;Gisy-les-Nobles;Les Prés Tomery;300;Enclos circulaire;;;;;;;15.7;15.7000001;ND;;124.1;;716987, 6798502;;Eugène 2000
+102;Gisy-les-Nobles;Les Prés Tomery;400;Enclos circulaire;;;;*;*;;12.3;12.3000001;BF2;;154.7;;716979, 6798488;;Eugène 2000
+105;Gisy-les-Nobles;Les Prés Tomery;200;Enclos circulaire;;;*;;;;10.5;10.5000001;BF1;;177.3;;717003, 6798473;;Eugène 2000
+103;Gisy-les-Nobles;Les Prés Tomery;100;Enclos circulaire;;;;*;;;8.6;8.6000001;BF2;;;;716984, 6798442;;Eugène 2000
+101;Gisy-les-Nobles;Les Prés Tomery;500;Enclos circulaire;;;;;;;7.3;7.3000001;ND;;130.6;Un aménagement de l'entrée (?) : trois trous de poteaux;716962, 6798494;;Eugène 2000
+106;Gouaix;La Haute Grève;St. 58;Enclos circulaire;;;;;;;13.5;13.5000001;ND;;;;723473, 6819182;;Séguier et al. 2010
+109;Gravon;La Sourcière / La Queue de la Poële;E3;Enclos quadrangulaire;;;;;;;22;22.0000001;ND;;;;709465, 6810617;;Gouge, Mordant et al. 1994
+112;Gravon;Le Chemin de la Tombe/Le Chemin de l'Ecluse - est;E 2 (F);Enclos circulaire;;;;;;;17.7;17.7000001;ND;;;;708871, 6810528;;"D. Mordant 1966; Gouge, Mordant et al. 1994"
+110;Gravon;La Sourcière / La Queue de la Poële;E2;Enclos circulaire;;;;;;;16;16.0000001;ND;;;Enclos à quatre fossés successifs;709489, 6810611;;"Gouge, Mordant et al. 1994; Mordant & Mordant 1970b"
+117;Gravon;Le Chemin de la Tombe/Le Chemin de l'Ecluse - est;E 5;Enclos circulaire;;;;;;;15.5;15.5000001;ND;;;;708961, 6810620;;"D. Mordant 1966; Gouge, Mordant et al. 1994"
+118;Gravon;Le Chemin de l'Ecluse - ouest;A;Enclos circulaire;;;;;;;15;15.0000001;ND;;;;708267, 6810313;;"D. Mordant 1966; Gouge, Mordant et al. 1994"
+119;Gravon;Le Chemin de l'Ecluse - ouest;E 6 (B);Enclos circulaire;;;;;*;;10.7;10.7000001;BF3;;;;708301, 6810404;;"D. Mordant 1966; Gouge, Mordant et al. 1994"
+111;Gravon;La Sourcière / La Queue de la Poële;E9;Enclos circulaire;;;;;;;10;10.0000001;ND;;114.7;;709497, 6810287;;Gouge, Mordant et al. 1994
+113;Gravon;Le Chemin de la Tombe/Le Chemin de l'Ecluse - est;E 1 (E);Enclos circulaire;;;;*;;;10;10.0000001;BF2;;;;708895, 6810599;;"D. Mordant 1966; Tarrête 1981; Gouge, Mordant et al. 1994"
+115;Gravon;Le Chemin de la Tombe/Le Chemin de l'Ecluse - est;E 4;Enclos circulaire;;;;;;;9.5;9.5000001;ND;;;;708947, 6810624;;"D. Mordant 1966; Gouge, Mordant et al. 1994"
+114;Gravon;Le Chemin de la Tombe/Le Chemin de l'Ecluse - est;E 2 (D);Enclos circulaire;;;*;;;;7.5;7.5000001;BF1;;110.6;Dimension identique avec l'enclos voisin;708941, 6810705;;"D. Mordant 1966; Gouge, Mordant et al. 1994"
+116;Gravon;Le Chemin de la Tombe/Le Chemin de l'Ecluse - est;E 1 (C);Enclos circulaire;;;*;;;;7.5;7.5000001;BF1;;110.6;;708955, 6810716;;"D. Mordant 1966; Gouge, Mordant et al. 1994"
+107;Gravon;La Sourcière / La Queue de la Poële;E12;Enclos ovale;;;;;;;7;7.0000001;ND;;;Possible enclos allongé (Langgrab);709376, 6810607;;Gouge, Mordant et al. 1994
+108;Gravon;La Sourcière / La Queue de la Poële;E0;Enclos circulaire;;;;*;;;;0.0000001;BF2;;;;709409, 6810588;;Gouge, Mordant et al. 1994
+129;Grisy-sur-Seine;Les Roqueux;E 7;Enclos circulaire;;;;;;;23;23.0000001;ND;;;;722651, 6815772;;Gouge, Mordant et al. 1994
+126;Grisy-sur-Seine;Les Roqueux;E 3;Double enclos circulaire;;;;;;;20;20.0000001;ND;;162.3;;722622, 6815881;;Gouge, Mordant et al. 1994
+128;Grisy-sur-Seine;Les Roqueux;E 5;Enclos circulaire;;;;;;;17.8;17.8000001;ND;;178;;722633, 6815922;;Gouge, Mordant et al. 1994
+124;Grisy-sur-Seine;Les Méchantes Terres;E 3;Enclos circulaire;;;;;;;14.4;14.4000001;ND;;;;722862, 6815162;;"Gouge, Mordant et al. 1994; Tarrête 1985"
+125;Grisy-sur-Seine;Les Méchantes Terres;E 2;Enclos circulaire;;;;;;;13;13.0000001;ND;;;;722877, 6815183;;"Gouge, Mordant et al. 1994; Tarrête 1985"
+123;Grisy-sur-Seine;Les Méchantes Terres;E 4;Enclos circulaire;;;;;;;11.9;11.9000001;ND;;;;722851, 6815148;;"Gouge, Mordant et al. 1994; Tarrête 1985"
+122;Grisy-sur-Seine;Les Méchantes Terres;E 5;Enclos circulaire;;;;;;;11.5;11.5000001;ND;;;;722841, 6815076;;"Gouge, Mordant et al. 1994; Tarrête 1985"
+130;Grisy-sur-Seine;Les Roqueux;E 1;Enclos circulaire;;;;;;;10.1;10.1000001;ND;;46.9;;722821, 6815920;;Gouge, Mordant et al. 1994
+127;Grisy-sur-Seine;Les Roqueux;E 2;Enclos circulaire interne;;;;;;;10;10.0000001;ND;;178.1;A l’intérieur du E 3;722625, 6815879;;Gouge, Mordant et al. 1994
+121;Grisy-sur-Seine;Les Méchantes Terres;E 6;Enclos circulaire;;;;;;;6.3;6.3000001;ND;;;;722787, 6815115;;"Gouge, Mordant et al. 1994; Tarrête 1985"
+120;Grisy-sur-Seine;Les Méchantes Terres;E 7;Enclos circulaire;;;;;;;4.7;4.7000001;ND;;63;;722724, 6814924;;"Gouge, Mordant et al. 1994; Tarrête 1985"
+132;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;17.3;17.3000001;ND;;;;721261, 6784268;;Müller et al. 1997
+134;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;17.2;17.2000001;ND;;108.1;;721286, 6784329;;Müller et al. 1997
+133;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;17;17.0000001;ND;;87;;721286, 6784308;;Müller et al. 1997
+131;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;13.3;13.3000001;ND;;;;721258, 6784300;;Müller et al. 1997
+135;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;12.9;12.9000001;ND;;133.7;;721294, 6784267;;Müller et al. 1997
+136;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;12.5;12.5000001;ND;;99.5;;721298, 6784285;;Müller et al. 1997
+139;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;12;12.0000001;ND;;145.5;;721383, 6784235;;Müller et al. 1997
+138;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;11;11.0000001;ND;;331.7;;721336, 6784397;;Müller et al. 1997
+140;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;11;11.0000001;ND;;154.8;;721404, 6784211;;Müller et al. 1997
+137;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;10.3;10.3000001;ND;;127.8;;721303, 6784242;;Müller et al. 1997
+141;Gron;Les Sablons;NN;Enclos circulaire;;;;;;;8.9;8.9000001;ND;;;;721414, 6784206;;Müller et al. 1997
+143;Hermé;Chateau Duduit;E 1;Enclos allongé;;;;;*;;120;120.0000001;BF3;;;;724378, 6818988;;Gouge, Mordant et al. 1994
+142;Hermé;Chateau Duduit;E 5;Enclos circulaire;;;;;;;12;12.0000001;ND;;;;724366, 6818908;;Gouge, Mordant et al. 1994
+144;Hermé;Chateau Duduit;E 2;Enclos circulaire;;;;;;;12;12.0000001;ND;;;;724389, 6818939;;Gouge, Mordant et al. 1994
+145;Hermé;Chateau Duduit;E 3;Enclos circulaire;;;;;;;10.3;10.3000001;ND;;;;724398, 6818988;;Gouge, Mordant et al. 1994
+154;Jaulnes;Le Bas des Hauts Champs;2009;Double enclos circulaire;;;;;*;;17;17.0000001;BF3;;;;720875, 6815215;;"Peake, et al. 2011; Peake & Delattre 2010"
+152;Jaulnes;Le Bas des Hauts Champs;2007;Double enclos circulaire;;;;;;*;16;16.0000001;FE1;;229.5;Tombe à l’épée Ha C;720869, 6815235;;"Peake, et al. 2011; Peake & Delattre 2010"
+146;Jaulnes;Le Bas des Hauts Champs;1009;Enclos circulaire;;;;;;;14;14.0000001;ND;;;;720767, 6815174;;"Peake, et al. 2011; Peake & Delattre 2010"
+155;Jaulnes;Le Bas des Hauts Champs;E 9;Double enclos circulaire;;;;;;*;13.3;13.3000001;FE1;;;;720882, 6815233;;"Peake, et al. 2011; Peake & Delattre 2010"
+147;Jaulnes;Le Bas des Hauts Champs;2036;Enclos circulaire;;*;;;;;13;13.0000001;BAM;;;;720786, 6815239;;"Peake, et al. 2011; Peake & Delattre 2010"
+151;Jaulnes;Le Bas des Hauts Champs;2008;Enclos circulaire interne;;;;;*;;12;12.0000001;BF3;;121.4;A l’intérieur de l’enclos 2007;720866, 6815234;;"Peake, et al. 2011; Peake & Delattre 2010"
+159;Jaulnes;Le Bas des Hauts Champs;E 11;Enclos circulaire;;;;;*;;11.9;11.9000001;BF3;;203.1;Trous de poteaux à l’intérieur de l’enclos;720889, 6815247;;"Peake, et al. 2011; Peake & Delattre 2010"
+156;Jaulnes;Le Bas des Hauts Champs;E 9 bis;Enclos circulaire interne;;;;;;*;10.8;10.8000001;FE1;;;Interne du E9. Recreusé à deux reprises.;720883, 6815232;;"Peake, et al. 2011; Peake & Delattre 2010"
+153;Jaulnes;Le Bas des Hauts Champs;2010;Enclos quadrangulaire;;;;;*;;10;10.0000001;BF3;;;Entouré par un enclos circulaire;720874, 6815213;;"Peake, et al. 2011; Peake & Delattre 2010"
+160;Jaulnes;Le Bas des Hauts Champs;E 8;Enclos circulaire;;;;;;;9.6;9.6000001;ND;;324;;720892, 6815227;;"Peake, et al. 2011; Peake & Delattre 2010"
+157;Jaulnes;Le Bas des Hauts Champs;E 1;Enclos circulaire;;;;;;;9.4;9.4000001;ND;;162;;720889, 6815189;;"Peake, et al. 2011; Peake & Delattre 2010"
+150;Jaulnes;Le Bas des Hauts Champs;2072;Enclos ovale;;;;;*;;8;8.0000001;BF3;;;;720865, 6815211;;"Peake, et al. 2011; Peake & Delattre 2010"
+148;Jaulnes;Le Bas des Hauts Champs;2035;Enclos circulaire;;*;;;;*;7.5;7.5000001;BAM;;;;720796, 6815237;;"Peake, et al. 2011; Peake & Delattre 2010"
+149;Jaulnes;Le Bas des Hauts Champs;2011;Enclos quadrangulaire;;;;;;*;3.5;3.5000001;FE1;;;;720864, 6815218;;"Peake, et al. 2011; Peake & Delattre 2010"
+158;Jaulnes;Le Bas des Hauts Champs;E 5;Enclos quadrangulaire;;;;;;*;;0.0000001;FE1;;19.6;;720889, 6815218;;"Peake, et al. 2011; Peake & Delattre 2010"
+161;Jaulnes;Le Bas des Hauts Champs;E 12;Enclos quadrangulaire;;;;;;*;;0.0000001;FE1;;214.4;;720914, 6815243;;"Peake, et al. 2011; Peake & Delattre 2010"
+162;La Motte-Tilly;La Ferme de l'Ile;NN;Enclos circulaire;;;;;*;;19.3;19.3000001;BF3;;150;;731508, 6820626;;"Lemoine 1966; Joffroy 1968"
+163;La Saulsotte;Crépin;NN;Enclos circulaire;;;;;;*;20;20.0000001;FE1;;;;739621, 6827028;;Brisson & Lemoine 1962
+167;La Sausotte;Ferme de Frécul;E 4;Enclos circulaire;;;;;;;17;17.0000001;ND;;246.8;;739574, 6826320;;"Piette 1999; Rottier et al. 2012"
+166;La Sausotte;Ferme de Frécul;E 2;Enclos circulaire;;;;;;;14.5;14.5000001;ND;;144.5;;739496, 6826366;;"Piette 1999; Rottier et al. 2012"
+165;La Sausotte;Ferme de Frécul;E 1;Enclos circulaire;;;;;;;7.4;7.4000001;ND;;149.6;;739475, 6826361;;"Piette 1999; Rottier et al. 2012"
+164;La Sausotte;Ferme de Frécul;E 1;Enclos circulaire;;;;;;;7;7.0000001;ND;;222.6;;739444, 6826409;;"Piette 1999; Rottier et al. 2012"
+168;La Tombe;La Cours des Lions;E 1;Enclos circulaire;;;;;;;6.2;6.2000001;ND;;251.4;;705917, 6809797;;"Renaud 1993; Gouge, Mordant et al. 1994"
+174;Marigny-le-Châtel;Le Saussoir à Jollier;St. 001;Enclos quadrangulaire;;;;;;*;28;28.0000001;FE1;;;;753325, 6810498;;"Filipiak, et al. 2017; Filipiak 2018"
+173;Marigny-le-Châtel;Epine Gérard;Enclos 1;Enclos circulaire;;;;;;;18;18.0000001;ND;;275;;752933, 6810988;;"Filipiak, et al. 2017; Filipiak 2018"
+171;Marigny-le-Châtel;Chemin de la Pèze / Pont de Riom;E 155;Enclos quadrangulaire;;;*;;;;12.5;12.5000001;BF1;;8.9;;752681, 6811386;;"Filipiak, et al. 2017; Filipiak 2018"
+170;Marigny-le-Châtel;Chemin de la Pèze / Pont de Riom;E 139;Enclos circulaire;;;;;;;12.3;12.3000001;ND;;165;;752660, 6811412;;"Filipiak, et al. 2017; Filipiak 2018"
+169;Marigny-le-Châtel;Chemin de la Pèze / Pont de Riom;E 38;Enclos quadrangulaire;;;*;;;;7;7.0000001;BF1;;;;752634, 6811512;;"Filipiak, et al. 2017; Filipiak 2018"
+172;Marigny-le-Châtel;Epine Gérard;Enclos 2;Enclos circulaire;;;;;;;5.2;5.2000001;ND;;3;;752909, 6810961;;"Filipiak, et al. 2017; Filipiak 2018"
+208;Marolles-sur-Seine;La Croix St. Jacques;E 26;Enclos ovale;;;*;;;;30;30.0000001;BF1;;138.2;;701791, 6808874;;Peake & Delattre 2015
+197;Marolles-sur-Seine;La Croix de la Mission;E 31;Enclos circulaire;;*;;;;;28.3;28.3000001;BAM;;;;701025, 6809745;;"Peake et al. 1999; Peake & Delattre 2005"
+184;Marolles-sur-Seine;La Butte Saint-Donain;St. 407;Enclos circulaire;;;;;;;26.9;26.9000001;ND;;;;700982, 6808708;;Mahé 1996b
+203;Marolles-sur-Seine;La Croix de la Mission;E 5;Enclos circulaire;;;;;;;24.7;24.7000001;ND;;;;701062, 6809640;;"Peake et al. 1999; Peake & Delattre 2005"
+248;Marolles-sur-Seine;Les Carrières;E 19;Enclos circulaire;;;;;;;24.1;24.1000001;ND;;;;704979, 6809298;;"Gouge 1993; Gouge, Mordant et al. 1994"
+193;Marolles-sur-Seine;La Croix de la Mission;E 60;Enclos circulaire;;;;*;;;22.1;22.1000001;BF2;;40.6;;700955, 6809761;;"Peake et al. 1999; Peake & Delattre 2005"
+241;Marolles-sur-Seine;Les Carrières;E 8;Enclos circulaire;;;;;*;;20.7;20.7000001;BF3;;;;704936, 6809399;;"Gouge 1993; Gouge, Mordant et al. 1994"
+177;Marolles-sur-Seine;La Butte Saint-Donain;St. 245;Enclos circulaire;;;;;;;20.5;20.5000001;ND;;;;700898, 6808857;;Mahé 1996b
+205;Marolles-sur-Seine;La Croix St. Jacques;E 81;Enclos ovale;;;*;;;;20;20.0000001;BF1;;122.4;;701740, 6808833;;Peake & Delattre 2015
+255;Marolles-sur-Seine;Les Carrières;E 29;Enclos circulaire;;;;;*;;19.7;19.7000001;BF3;;;;705033, 6809340;;"Gouge 1993; Gouge, Mordant et al. 1994"
+180;Marolles-sur-Seine;La Butte Saint-Donain;St 272;Enclos circulaire;;;;;;;19.1;19.1000001;ND;;;;700921, 6808816;;Mahé 1996b
+263;Marolles-sur-Seine;Les Gours aux Lions;E 2;Double enclos circulaire;;;;;;;19;19.0000001;ND;;;;705040, 6809717;;Mordant & Mordant 1970a
+238;Marolles-sur-Seine;Les Carrières;E 15;Enclos circulaire;;;;;*;;19;19.0000001;BF3;;;;704908, 6809265;;"Gouge 1993; Gouge, Mordant et al. 1994"
+254;Marolles-sur-Seine;Les Carrières;E 28;Enclos circulaire;;;;;*;;19;19.0000001;BF3;;;;705027, 6809365;;"Gouge 1993; Gouge, Mordant et al. 1994"
+182;Marolles-sur-Seine;La Butte Saint-Donain;St. 401;Enclos circulaire;;;;;;;18.9;18.9000001;ND;;;;700948, 6808723;;Mahé 1996b
+204;Marolles-sur-Seine;La Croix St. Jacques;E 11;Enclos circulaire;;;*;;;;18.5;18.5000001;BF1;;;;701701, 6808851;;Peake & Delattre 2015
+194;Marolles-sur-Seine;La Croix de la Mission;E 7;Enclos circulaire;;;;;;;18.2;18.2000001;ND;;;;700978, 6809576;;"Peake et al. 1999; Peake & Delattre 2005"
+258;Marolles-sur-Seine;Les Carrières;22/01/2002;Enclos circulaire;;;;;;;18;18.0000001;ND;;;;705164, 6809414;;"Gouge 1993; Gouge, Mordant et al. 1994"
+189;Marolles-sur-Seine;La Butte Saint-Donain;St. 307;Enclos circulaire;;;;;*;;17;17.0000001;BF3;;229.8;;701021, 6808752;;Mahé 1996b
+257;Marolles-sur-Seine;Les Carrières;22/03/2004;Enclos circulaire;;;;;;;17;17.0000001;ND;;;;705162, 6809387;;"Gouge 1993; Gouge, Mordant et al. 1994"
+183;Marolles-sur-Seine;La Butte Saint-Donain;St. 49;Enclos circulaire;;;;;;;16.9;16.9000001;ND;;;;700965, 6808752;;Mahé 1996b
+218;Marolles-sur-Seine;Le Tureau des Gardes;E 3;Enclos circulaire;;;;;;;16.7;16.7000001;ND;;;;700302, 6809299;;"Gouge & Lang 1994; Gouge, Mordant et al. 1994"
+251;Marolles-sur-Seine;Les Carrières;E 27;Enclos circulaire;;;;;*;;16.6;16.6000001;BF3;;;;705012, 6809393;;"Gouge 1993; Gouge, Mordant et al. 1994"
+198;Marolles-sur-Seine;La Croix de la Mission;E 34;Enclos circulaire;;;;;;;16.1;16.1000001;ND;;;;701030, 6809685;;"Peake et al. 1999; Peake & Delattre 2005"
+222;Marolles-sur-Seine;Les Carrières;E 42;Enclos circulaire;;;*;;;;15.9;15.9000001;BF1;;;;704517, 6809464;;"Gouge 1993; Gouge, Mordant et al. 1994"
+230;Marolles-sur-Seine;Les Carrières;E 6;Enclos circulaire;;;;;*;;15.6;15.6000001;BF3;;;;704841, 6809395;;"Gouge 1993; Gouge, Mordant et al. 1994"
+220;Marolles-sur-Seine;Le Tureau des Gardes;E 2;Enclos circulaire;;;;;*;;15.5;15.5000001;BF3;;;;700338, 6809307;;"Gouge & Lang 1994; Gouge, Mordant et al. 1994"
+202;Marolles-sur-Seine;La Croix de la Mission;E 22;Enclos circulaire;;;;;;;15.4;15.4000001;ND;;;;701059, 6809677;;"Peake et al. 1999; Peake & Delattre 2005"
+262;Marolles-sur-Seine;Les Gours aux Lions;E 2 (interne);Enclos circulaire interne;;;;;;;15.3;15.3000001;ND;;163.2;;705040, 6809717;;Mordant & Mordant 1970a
+247;Marolles-sur-Seine;Les Carrières;E 22;Enclos circulaire;;;;;*;;15.2;15.2000001;BF3;;;;704969, 6809332;;"Gouge 1993; Gouge, Mordant et al. 1994"
+256;Marolles-sur-Seine;Les Carrières;E 34;Enclos circulaire;;;;;*;;15.1;15.1000001;BF3;;;;705110, 6809392;;"Gouge 1993; Gouge, Mordant et al. 1994"
+176;Marolles-sur-Seine;La Butte Saint-Donain;St. 92;Enclos circulaire;;;;;*;;15;15.0000001;BF3;;;;700890, 6808888;;Mahé 1996b
+201;Marolles-sur-Seine;La Croix de la Mission;E 9;Enclos circulaire;;;;;;;15;15.0000001;ND;;;;701059, 6809555;;"Peake et al. 1999; Peake & Delattre 2005"
+264;Marolles-sur-Seine;Les Taupes;E 1;Enclos circulaire;;;*;;;;15;15.0000001;BF1;;74.1;;702330, 6808314;;"Gouge 1991; Gouge, Mordant et al. 1994"
+237;Marolles-sur-Seine;Les Carrières;E 1;Enclos circulaire;;;;;*;;14.7;14.7000001;BF3;;;;704897, 6809464;;"Gouge 1993; Gouge, Mordant et al. 1994"
+206;Marolles-sur-Seine;La Croix St. Jacques;E 15;Enclos circulaire;;;*;;;;14.5;14.5000001;BF1;;130.8;;701761, 6808896;;Peake & Delattre 2015
+232;Marolles-sur-Seine;Les Carrières;E 5;Enclos circulaire;;;;;*;;14.2;14.2000001;BF3;;;;704864, 6809427;;"Gouge 1993; Gouge, Mordant et al. 1994"
+231;Marolles-sur-Seine;Les Carrières;E 14;Enclos circulaire;;;;;*;;13.7;13.7000001;BF3;;;;704863, 6809283;;"Gouge 1993; Gouge, Mordant et al. 1994"
+249;Marolles-sur-Seine;Les Carrières;E 25;Enclos circulaire;;;;;*;;13.7;13.7000001;BF3;;;;704989, 6809361;;"Gouge 1993; Gouge, Mordant et al. 1994"
+261;Marolles-sur-Seine;Les Gours aux Lions;E 5;Enclos circulaire;;;*;;;;13.5;13.5000001;BF1;;149.8;;705002, 6809696;;Mordant & Mordant 1970a
+260;Marolles-sur-Seine;Les Gours aux Lions;E 4;Enclos subcirculaire;*;;;;;;13.4;13.4000001;ND;;;Incorporation volontaire d’une tombe néolithique;704997, 6809714;;"Mordant & Mordant 1970a ; Masset et al. 1967"
+233;Marolles-sur-Seine;Les Carrières;E 2;Enclos circulaire;;;;;*;;13.2;13.2000001;BF3;;;;704872, 6809464;;"Gouge 1993; Gouge, Mordant et al. 1994"
+252;Marolles-sur-Seine;Les Carrières;E 30;Enclos circulaire;;;;;*;;12.9;12.9000001;BF3;;136.2;;705014, 6809293;;"Gouge 1993; Gouge, Mordant et al. 1994"
+196;Marolles-sur-Seine;La Croix de la Mission;E 15;Enclos circulaire;;;*;;;;12.6;12.6000001;BF1;;117.1;;701024, 6809776;;"Peake et al. 1999; Peake & Delattre 2005"
+216;Marolles-sur-Seine;Le Tureau des Gardes;E 6;Enclos circulaire;;;*;;;;12.5;12.5000001;BF1;;20.6;Enclos positionné dans une cuvette naturelle;700217, 6809354;;"Gouge & Séguier 1995; Gouge, Mordant et al. 1994"
+243;Marolles-sur-Seine;Les Carrières;E 23;Enclos ovale;;;;;*;;12.5;12.5000001;BF3;;160;;704949, 6809363;;"Gouge 1993; Gouge, Mordant et al. 1994"
+181;Marolles-sur-Seine;La Butte Saint-Donain;St 84;Enclos circulaire;;;;;;;12.4;12.4000001;ND;;;;700938, 6808884;;Mahé 1996b
+195;Marolles-sur-Seine;La Croix de la Mission;E 25;Enclos circulaire;;;;;;;12.4;12.4000001;ND;;;;701016, 6809648;;"Peake et al. 1999; Peake & Delattre 2005"
+221;Marolles-sur-Seine;Le Tureau des Gardes;E 1;Enclos circulaire;;;;;;;12.4;12.4000001;ND;;;;700666, 6809479;;"Gouge & Lang 1994; Gouge, Mordant et al. 1994"
+179;Marolles-sur-Seine;La Butte Saint-Donain;St 285;Enclos circulaire;;;;;*;;12.3;12.3000001;BF3;;;;700917, 6808747;;Mahé 1996b
+215;Marolles-sur-Seine;Le Tureau des Gardes;St. 2.2;Enclos circulaire;;;*;;*;;12.2;12.2000001;BF1;;91.3;;700196, 6809316;;"Vatan et al. 2001; Gouge, Mordant et al. 1994"
+226;Marolles-sur-Seine;Les Carrières;E 36;Enclos circulaire;;;;;*;;12;12.0000001;BF3;;;;704646, 6809370;;"Gouge 1993; Gouge, Mordant et al. 1994"
+227;Marolles-sur-Seine;Les Carrières;E 35;Enclos circulaire;;;;;*;;12;12.0000001;BF3;;;;704722, 6809379;;"Gouge 1993; Gouge, Mordant et al. 1994"
+240;Marolles-sur-Seine;Les Carrières;E 20;Enclos ovale;;;;;*;;12;12.0000001;BF3;;86.7;;704935, 6809314;;"Gouge 1993; Gouge, Mordant et al. 1994"
+190;Marolles-sur-Seine;La Butte Saint-Donain;St. 465;Enclos circulaire;;;;;;;11.7;11.7000001;ND;;;;701037, 6808691;;Mahé 1996b
+228;Marolles-sur-Seine;Les Carrières;E 9;Enclos circulaire;;;;;*;;11.6;11.6000001;BF3;;;Présence d’ossements de bœuf;704741, 6809343;;"Gouge 1993; Gouge, Mordant et al. 1994"
+242;Marolles-sur-Seine;Les Carrières;E 18;Enclos circulaire;;;;;*;;11.6;11.6000001;BF3;;;;704949, 6809298;;"Gouge 1993; Gouge, Mordant et al. 1994"
+178;Marolles-sur-Seine;La Butte Saint-Donain;St. 283;Enclos circulaire;;;;;;;11.5;11.5000001;ND;;;;700913, 6808778;;Mahé 1996b
+185;Marolles-sur-Seine;La Butte Saint-Donain;St. 466;Enclos circulaire;;;;;;;11.1;11.1000001;ND;;;;701004, 6808686;;Mahé 1996b
+188;Marolles-sur-Seine;La Butte Saint-Donain;St. 462;Enclos circulaire;;;;;;;10.6;10.6000001;ND;;;;701017, 6808732;;Mahé 1996b
+214;Marolles-sur-Seine;Le Tureau des Gardes;St. 7;Enclos circulaire;;;;;;;10.4;10.4000001;ND;;;;700178, 6809235;;"Vatan et al. 2001; Gouge, Mordant et al. 1994"
+187;Marolles-sur-Seine;La Butte Saint-Donain;St. 443;Enclos circulaire;;;;;;;10.2;10.2000001;ND;;;;701016, 6808698;;Mahé 1996b
+207;Marolles-sur-Seine;La Croix St. Jacques;E 106;Enclos circulaire;;;*;;;;10;10.0000001;BF1;;168.1;;701774, 6808854;;Peake & Delattre 2015
+223;Marolles-sur-Seine;Les Carrières;E 39;Enclos circulaire;;;;;*;;10;10.0000001;BF3;;;;704606, 6809382;;"Gouge 1993; Gouge, Mordant et al. 1994"
+234;Marolles-sur-Seine;Les Carrières;E 10;Enclos circulaire;;;;;*;;9.6;9.6000001;BF3;;;;704875, 6809373;;"Gouge 1993; Gouge, Mordant et al. 1994"
+209;Marolles-sur-Seine;La Croix St. Jacques;E 28;Enclos circulaire;;;*;;;;9.5;9.5000001;BF1;;;;701814, 6808918;;Peake & Delattre 2015
+212;Marolles-sur-Seine;Le Tureau des Gardes;St. 3;Enclos circulaire;;;;;;;9.5;9.5000001;ND;;127.9;;700102, 6809482;;"Vatan et al. 2001; Gouge, Mordant et al. 1994"
+235;Marolles-sur-Seine;Les Carrières;E 3;Enclos circulaire;;;;;*;;9.4;9.4000001;BF3;;;;704881, 6809453;;"Gouge 1993; Gouge, Mordant et al. 1994"
+191;Marolles-sur-Seine;La Butte Saint-Donain;St. 470;Double enclos circulaire;;;;;;;9.1;9.1000001;ND;;;;701053, 6808752;;Mahé 1996b
+175;Marolles-sur-Seine;La Butte Saint-Donain;St. 90;Enclos circulaire;;;;;;;9.1;9.1000001;ND;;;;700856, 6808875;;Mahé 1996b
+211;Marolles-sur-Seine;Le Grand Canton;St. 83;Enclos circulaire;;;;;;;9;9.0000001;ND;;96.9;;702011, 6807936;;Séguier 1995
+217;Marolles-sur-Seine;Le Tureau des Gardes;E 5;Enclos circulaire;;;;;;;9;9.0000001;ND;;336;;700287, 6809309;;"Gouge & Lang 1994; Gouge, Mordant et al. 1994"
+219;Marolles-sur-Seine;Le Tureau des Gardes;E 4;Enclos circulaire;;;;;;;9;9.0000001;ND;;;;700313, 6809316;;"Gouge & Lang 1994; Gouge, Mordant et al. 1994"
+246;Marolles-sur-Seine;Les Carrières;E 24;Enclos circulaire;;;;;*;;8.8;8.8000001;BF3;;;;704966, 6809368;;"Gouge 1993; Gouge, Mordant et al. 1994"
+229;Marolles-sur-Seine;Les Carrières;E 7;Enclos circulaire;;;;;*;;8.5;8.5000001;BF3;;;;704816, 6809393;;"Gouge 1993; Gouge, Mordant et al. 1994"
+213;Marolles-sur-Seine;Le Tureau des Gardes;St. 35;Enclos ovale;;;;;;;8.3;8.3000001;ND;;;;700167, 6809247;;"Vatan et al. 2001; Gouge, Mordant et al. 1994"
+186;Marolles-sur-Seine;La Butte Saint-Donain;St. 459;Enclos circulaire;;;;;;;8.2;8.2000001;ND;;;;701009, 6808720;;Mahé 1996b
+245;Marolles-sur-Seine;Les Carrières;E 17;Enclos circulaire;;;;;*;;8.2;8.2000001;BF3;;;;704953, 6809255;;"Gouge 1993; Gouge, Mordant et al. 1994"
+244;Marolles-sur-Seine;Les Carrières;E 21;Enclos circulaire;;;;;*;;7.9;7.9000001;BF3;;324.1;;704950, 6809328;;"Gouge 1993; Gouge, Mordant et al. 1994"
+199;Marolles-sur-Seine;La Croix de la Mission;E 32;Enclos circulaire;;;;;;;7.8;7.8000001;ND;;;;701030, 6809725;;"Peake et al. 1999; Peake & Delattre 2005"
+239;Marolles-sur-Seine;Les Carrières;E 13;Enclos circulaire;;;;;*;;7.7;7.7000001;BF3;;;;704914, 6809320;;"Gouge 1993; Gouge, Mordant et al. 1994"
+200;Marolles-sur-Seine;La Croix de la Mission;E 4;Enclos circulaire;;*;;;;;7.4;7.4000001;BAM;;129.5;;701055, 6809708;;"Peake et al. 1999; Peake & Delattre 2005"
+253;Marolles-sur-Seine;Les Carrières;E 31;Enclos circulaire;;;;;*;;6.7;6.7000001;BF3;;;;705018, 6809279;;"Gouge 1993; Gouge, Mordant et al. 1994"
+225;Marolles-sur-Seine;Les Carrières;E 37;Enclos circulaire;;;;;*;;6.5;6.5000001;BF3;;;;704620, 6809349;;"Gouge 1993; Gouge, Mordant et al. 1994"
+250;Marolles-sur-Seine;Les Carrières;E 32;Enclos circulaire;;;;;*;;6;6.0000001;BF3;;;;704991, 6809270;;"Gouge 1993; Gouge, Mordant et al. 1994"
+224;Marolles-sur-Seine;Les Carrières;E 38;Enclos circulaire;;;;;*;;5.9;5.9000001;BF3;;;;704618, 6809340;;"Gouge 1993; Gouge, Mordant et al. 1994"
+192;Marolles-sur-Seine;La Butte Saint-Donain;St. 471;Enclos circulaire interne;;;;;;;5.5;5.5000001;ND;;;A l’intérieur de l’EC St. 470;701054, 6808752;;Mahé 1996b
+210;Marolles-sur-Seine;Le Carreau Franc;NN;Enclos circulaire;;;;;;;;0.0000001;ND;;19.1;;702771, 6809083;;Buret 1997
+259;Marolles-sur-Seine;Les Gours aux Lions;E 7;Enclos circulaire;;;*;;;;;0.0000001;BF1;;;;704989, 6809563;;Mordant & Mordant 1970a
+236;Marolles-sur-Seine;Les Carrières;E 4;Enclos ovale;;;;;*;;;0.0000001;BF3;;;;704888, 6809426;;"Gouge 1993; Gouge, Mordant et al. 1994"
+266;Marsangy;Le Pré des Forges;NN;Enclos circulaire;;;;;;*;22;22.0000001;FE1;;;;719905, 6778505;;Thévenot 1974, 583–585
+265;Marsangy;Le Pré des Forges;NN;Enclos circulaire;;;;;;;15;15.0000001;ND;;;;719868, 6778283;;Thévenot 1974, 583–585
+268;Michery;La Tête de la Pierre / Climat de Gouverne;NN;Enclos circulaire;;;;;;;16;16.0000001;ND;;187;;718776, 6800460;;"Prampart 1984; Baray 2009, 65"
+267;Michery;La Longue Raie;Struct. I;Enclos circulaire;;;;;;;12.5;12.5000001;ND;;;;718114, 6801144;;Baray, Deffressigne et al. 1994
+269;Michery;La Tête de la Pierre / Climat de Gouverne;Enclos I;Enclos circulaire;;;;;;*;12.5;12.5000001;FE1;;;;718808, 6800506;;"Prampart 1984; Baray 2009, 65"
+271;Misy-sur-Yonne;Le Bois des Refuges;E 1;Enclos circulaire;;;*;;*;;13.5;13.5000001;BF1;;121.1;;705359, 6807019;;Mordant & Mordant 1977
+270;Misy-sur-Yonne;Le Bois des Refuges;E 0;Enclos circulaire;;;;;;;13;13.0000001;ND;;;;705353, 6806999;;Mordant & Mordant 1977
+272;Montereau-Fault-Yonne; Les Sécherons;NN;Enclos circulaire;;;;;;;19.5;19.5000001;ND;;;;698515, 6810570;;Gouge, Mordant et al. 1994
+273;Mouy-sur-Seine;Le Grand Gué;1.5;Enclos circulaire;;*;;;;;8;8.0000001;BAM;;;;Non positionné;;Ameye et al. 2016
+274;Mouy-sur-Seine;Le Grand Gué;1.3;Enclos circulaire;;*;;;;;6;6.0000001;BAM;;;;Non positionné;;Ameye et al. 2016
+276;Nogent-sur-Seine;Les Guignons;NN;Enclos circulaire;;;;;;;21.1;21.1000001;ND;;131.3;;735280, 6822083;;"Dugois 1996; Dugois 2000a; Desbrosse et al. 2009"
+281;Nogent-sur-Seine;Les Guignons;NN;Enclos circulaire;;;;;;;15.5;15.5000001;ND;;86.5;;735303, 6822148;;"Dugois 1996; Dugois 2000a; Desbrosse et al. 2009"
+280;Nogent-sur-Seine;Les Guignons;NN;Enclos circulaire;;;;;;;13.2;13.2000001;ND;;289.4;;735285, 6822158;;"Dugois 1996; Dugois 2000a; Desbrosse et al. 2009"
+277;Nogent-sur-Seine;Les Guignons;NN;Enclos circulaire;;;;;;;12.1;12.1000001;ND;;329.5;;735267, 6822083;;"Dugois 1996; Dugois 2000a; Desbrosse et al. 2009"
+289;Nogent-sur-Seine;Noue de Crevan;Enclos II;Enclos circulaire;;;;;;;11.9;11.9000001;ND;;104.1;;737582, 6823805;;Chertier 1981, 450
+282;Nogent-sur-Seine;Les Guignons;NN;Enclos circulaire;;;;;;;11.7;11.7000001;ND;;133.3;;735311, 6822162;;"Dugois 1996; Dugois 2000a; Desbrosse et al. 2009"
+286;Nogent-sur-Seine;Les Guignons;NN;Enclos circulaire;;;;;;;11.7;11.7000001;ND;;167;;735481, 6822153;;"Dugois 2000a; Desbrosse et al. 2009"
+275;Nogent-sur-Seine;Bas de Ligny;NN;Enclos circulaire;;;;;*;;11;11.0000001;BF3;;;;736649, 6822104;;Dugois 2000b
+278;Nogent-sur-Seine;Les Guignons;NN;Enclos circulaire;;;;;;;10.4;10.4000001;ND;;103.7;;735278, 6822169;;"Dugois 1996; Dugois 2000a; Desbrosse et al. 2009"
+279;Nogent-sur-Seine;Les Guignons;NN;Enclos circulaire;;;;;;;9.7;9.7000001;ND;;265.4;;735283, 6822185;;"Dugois 1996; Dugois 2000a; Desbrosse et al. 2009"
+288;Nogent-sur-Seine;Noue de Crevan;Enclos IV;Enclos circulaire;;;;;;;9;9.0000001;ND;;;;737578, 6823823;;Chertier 1981, 450
+287;Nogent-sur-Seine;Noue de Crevan;Enclos III;Enclos circulaire;;;;;;;8.9;8.9000001;ND;;;;737572, 6823816;;Chertier 1981, 450
+283;Nogent-sur-Seine;Les Guignons;E 10;Enclos circulaire;;;;;;;;0.0000001;ND;;174.3;;735442, 6821916;;"Dugois 1996; Dugois 2000a; Desbrosse et al. 2009"
+284;Nogent-sur-Seine;Les Guignons;NN;Enclos circulaire;;;;;;;;0.0000001;ND;;143.4;;735454, 6821903;;"Dugois 2000a; Desbrosse et al. 2009"
+285;Nogent-sur-Seine;Les Guignons;NN;Enclos circulaire;;;;;;;;0.0000001;ND;;133.3;;735480, 6821884;;"Dugois 2000a; Desbrosse et al. 2009"
+302;Passy;La Sablonnière;E 29;Enclos circulaire;;;;;;;20.5;20.5000001;ND;;;;720822, 6779402;;Lemercier et al. 2010, relevé H. Carré
+318;Passy;La Sablonnière;L 91;Enclos circulaire;;;;;;;20;20.0000001;ND;;116;;720927, 6779442;;Fonton 1983
+319;Passy;La Sablonnière;E 51;Double enclos circulaire;;;;;;;18.7;18.7000001;ND;;;;720929, 6779372;;Lemercier et al. 2010, relevé H. Carré
+291;Passy;La Ferme Richebourg;E 20;Enclos circulaire;;;;;;;18.2;18.2000001;ND;;;;720637, 6778997;; Lemercier et al. 2010
+294;Passy;La Ferme Richebourg;E 25;Enclos circulaire;;;;;;;18;18.0000001;ND;;;;720645, 6779070;;Duhamel 1983
+301;Passy;La Sablonnière;L 30;Enclos circulaire;;;;;;;18;18.0000001;ND;;;;720814, 6779491;;Fonton 1983
+312;Passy;La Sablonnière;L 57;Enclos circulaire;;;;;;;18;18.0000001;ND;;146.2;;720900, 6779444;;Fonton 1983
+313;Passy;La Sablonnière;E 52;Enclos circulaire;;;;;;;16.9;16.9000001;ND;;;;720902, 6779375;;Lemercier et al. 2010, relevé H. Carré
+323;Passy;La Sablonnière;E 50;Enclos circulaire;;;;;;;16.8;16.8000001;ND;;127;;720950, 6779394;;Lemercier et al. 2010, relevé H. Carré
+308;Passy;La Sablonnière;E 58;Enclos circulaire;;;*;;;;16.5;16.5000001;BF1;;;;720881, 6779342;;"Carré 2004; Lemercier et al. 2010"
+292;Passy;La Ferme Richebourg;E 23;Enclos circulaire;;;;;;;16;16.0000001;ND;;;;720638, 6779038;;Duhamel 1983
+300;Passy;La Sablonnière;E 28;Enclos circulaire;;;;;;;15;15.0000001;ND;;135.9;;720810, 6779426;;Lemercier et al. 2010, relevé H. Carré
+296;Passy;La Sablonnière;E 22;Enclos circulaire;;;;;;;14.1;14.1000001;ND;;;;720777, 6779423;;Lemercier et al. 2010, relevé H. Carré
+299;Passy;La Sablonnière;B1;Enclos circulaire;;;;;;;14;14.0000001;ND;;;Recoupé par l'EC B2 (daté du La Tène);720808, 6779535;;"Fonton 1982; Lemercier et al. 2010, plans H. Carré"
+295;Passy;La Ferme Richebourg;E 41;Enclos circulaire;;;;;;;12.5;12.5000001;ND;;;;720645, 6779092;;Duhamel 1983
+310;Passy;La Sablonnière;E 53;Enclos circulaire;;;;;;;12.5;12.5000001;ND;;;;720889, 6779380;;Lemercier et al. 2010, relevé H. Carré
+311;Passy;La Sablonnière;C;Enclos circulaire;;;;;;;12;12.0000001;ND;;;;720891, 6779516;;Fonton 1982
+303;Passy;La Sablonnière;E 64;Enclos circulaire;;;;;;;11.8;11.8000001;ND;;;;720826, 6779347;;Lemercier et al. 2010, relevé H. Carré
+304;Passy;La Sablonnière;E 32;Enclos circulaire;;;;;;;11.7;11.7000001;ND;;;;720833, 6779389;;Lemercier et al. 2010, relevé H. Carré
+297;Passy;La Sablonnière;L 65;Enclos circulaire;;;*;;;;11.5;11.5000001;BF1;;;;720790, 6779477;;Fonton 1983
+321;Passy;La Sablonnière;L 14;Enclos circulaire;;;;;;;11.5;11.5000001;ND;;;;720932, 6779482;;Fonton 1983
+298;Passy;La Sablonnière;L 66;Enclos circulaire;;;;;;;11;11.0000001;ND;;;;720803, 6779465;;Lemercier et al. 2010, relevé H. Carré
+324;Passy;La Sablonnière;L 94;Enclos circulaire;;;;;;;10.5;10.5000001;ND;;;;720954, 6779440;;Fonton 1983
+317;Passy;La Sablonnière;L 43;Enclos circulaire;;;;;;;10;10.0000001;ND;;;;720919, 6779471;;Fonton 1983
+316;Passy;La Sablonnière;L 45;Enclos circulaire;;;;;;;9.5;9.5000001;ND;;;;720918, 6779455;;Fonton 1983
+307;Passy;La Sablonnière;E 44;Enclos circulaire;;;;;;;9.1;9.1000001;ND;;168.4;;720876, 6779416;;Lemercier et al. 2010, relevé H. Carré
+320;Passy;La Sablonnière;L 60;Enclos circulaire;;;;;;;9;9.0000001;ND;;;;720931, 6779463;;"Fonton 1983; Lemercier et al. 2010"
+305;Passy;La Sablonnière;E 43;Enclos circulaire;;;;;;;8.6;8.6000001;ND;;158.4;;720864, 6779418;;Lemercier et al. 2010, relevé H. Carré
+306;Passy;La Sablonnière;E 41;Enclos circulaire;;;;;;;8;8.0000001;ND;;;;720871, 6779434;;Lemercier et al. 2010, relevé H. Carré
+322;Passy;La Sablonnière;E 46;Enclos circulaire;;;;;;;7.5;7.5000001;ND;;143.5;;720945, 6779419;;Lemercier et al. 2010, relevé H. Carré
+309;Passy;La Sablonnière;E 40;Enclos circulaire;;;;;;;7.1;7.1000001;ND;;;;720883, 6779406;;Lemercier et al. 2010, relevé H. Carré
+314;Passy;La Sablonnière;E 61;Enclos circulaire;;;;;;;6.1;6.1000001;ND;;;;720907, 6779350;;Lemercier et al. 2010, relevé H. Carré
+290;Passy;La Ferme Richebourg;NN;Enclos circulaire;;;;;;;;0.0000001;ND;;147.3;;720607, 6778979;;Duhamel 1985
+293;Passy;Les Graviers;NN;Enclos circulaire;;;;;;;;0.0000001;ND;;182.2;;720643, 6779249;;Lemercier et al. 2010
+315;Passy;La Sablonnière;L 42;Enclos circulaire;;;;;;;;0.0000001;ND;;167.8;;720914, 6779475;;Fonton 1983
+332;Passy-Véron;Les Près Pendus / La Truie Pendue;E 14;Enclos circulaire;;;;;;;17.5;17.5000001;ND;;;;721530, 6780304;;Depierre et al. 1997
+331;Passy-Véron;Les Près Pendus / La Truie Pendue;M 10;Enclos circulaire;*;;;;;;17;17.0000001;ND;;;;721521, 6780444;;Chevrier et al. 2009
+326;Passy-Véron;Les Près Pendus / La Truie Pendue;E 101;Enclos circulaire;;;*;;;;15;15.0000001;BF1;;184.4;;721490, 6780370;;Depierre et al. 1997
+325;Passy-Véron;Les Près Pendus / La Truie Pendue;E 16;Enclos circulaire;;;;;;;14;14.0000001;ND;;189.9;;721486, 6780278;;Depierre et al. 1997
+334;Passy-Véron;Les Près Pendus / La Truie Pendue;M 11;Enclos circulaire;;;;;;;13;13.0000001;ND;;;;721537, 6780467;;Chevrier et al. 2009
+336;Passy-Véron;Les Près Pendus / La Truie Pendue;E 8;Enclos circulaire;;;;;;;11.5;11.5000001;ND;;;;721550, 6780338;;Depierre et al. 1997
+330;Passy-Véron;Les Près Pendus / La Truie Pendue;M 2;Enclos circulaire;;;;;;;10.2;10.2000001;ND;;109.7;;721518, 6780419;;Chevrier et al. 2009
+327;Passy-Véron;Les Près Pendus / La Truie Pendue;E 7;Enclos circulaire;;;;;;;9.9;9.9000001;ND;;197.7;;721496, 6780340;;Depierre et al. 1997
+333;Passy-Véron;Les Près Pendus / La Truie Pendue;E 13;Enclos circulaire;;;;;;;9.6;9.6000001;ND;;;;721530, 6780347;;Depierre et al. 1997
+337;Passy-Véron;Les Près Pendus / La Truie Pendue;M 6;Enclos circulaire;;;;;;;7.5;7.5000001;ND;;119.9;;721578, 6780457;;Chevrier et al. 2009
+335;Passy-Véron;Les Près Pendus / La Truie Pendue;M 3;Enclos circulaire;;;;;;;6.3;6.3000001;ND;;;;721548, 6780427;;Chevrier et al. 2009
+338;Passy-Véron;Les Près Pendus / La Truie Pendue;M 7;Enclos circulaire;;;;;;;6;6.0000001;ND;;111.7;;721585, 6780467;;Chevrier et al. 2009
+329;Passy-Véron;Les Près Pendus / La Truie Pendue;E 4;Enclos circulaire;;;*;;;;5.6;5.6000001;BF1;;;;721506, 6780362;;Depierre et al. 1997
+328;Passy-Véron;Les Près Pendus / La Truie Pendue;M 9;Enclos circulaire;;;*;;;;;0.0000001;BF1;;72.1;;721500, 6780383;;Chevrier et al. 2009
+339;Pont-sur-Yonne;Beaujeu / Terre aux Pots;E 1;Enclos circulaire;;;*;;;;17;17.0000001;BF1;;150;;715860, 6797306;;Baray 2009, 44
+340;Pont-sur-Yonne;Beaujeu / Terre aux Pots;E 2;Enclos circulaire;;;*;;;;;0.0000001;BF1;;;;715877, 6797277;;Baray 2009, 44
+341;Saint Sauveur les Bray;Les Fèves Thomas;NN;Enclos circulaire;;;;;;;14.3;14.3000001;ND;;165.3;;714209, 6815343;;"Mordant 1976; Gouge, Mordant et al. 1994"
+344;Saint-Julien-du-Salut;Les Sablons;E 162;Enclos circulaire;;;*;;;;13.5;13.5000001;BF1;;143.2;;723175, 6771902;;"Augereau 2015; Augereau & Meunier 2017"
+346;Saint-Julien-du-Salut;Les Sablons;E 111;Enclos circulaire;*;;;;;;11.8;11.8000001;ND;;;Datation au Néolithique reste hypothétique;723202, 6771922;;"Augereau 2015; Augereau & Meunier 2017"
+347;Saint-Julien-du-Salut;Les Sablons;E 112;Enclos circulaire;*;;;;;;11.6;11.6000001;ND;;;Idem, E111;723215, 6771923;;"Augereau 2015; Augereau & Meunier 2017"
+345;Saint-Julien-du-Salut;Les Sablons;E 105;Enclos circulaire;;;;;;;9.4;9.4000001;ND;;70.8;;723184, 6771951;;"Augereau 2015; Augereau & Meunier 2017"
+343;Saint-Julien-du-Salut;Les Sablons;E 106;Enclos circulaire;;;;;;;9.3;9.3000001;ND;;189.7;;723163, 6771937;;"Augereau 2015; Augereau & Meunier 2017"
+342;Saint-Julien-du-Salut;Les Sablons;E 104;Enclos circulaire;;;;;;;8.6;8.6000001;ND;;;;723158, 6771986;;"Augereau 2015; Augereau & Meunier 2017"
+349;Serbonnes;La Créole;E 2;Double enclos circulaire;;;;;*;*;19;19.0000001;BF3;;;Triple enclos, mais avec les fossés intérieurs très étroits;715948, 6803668;;"Prampart 1984; Baray, Deffressigne et al. 1994"
+348;Serbonnes;La Créole;E 4;Enclos quadrangulaire;;;;;;*;14;14.0000001;FE1;;;;715942, 6803622;;"Prampart 1984; Baray, Deffressigne et al. 1994"
+351;Serbonnes;Le Champ Rabault;Enclos I;Enclos circulaire;;;;;*;;13;13.0000001;BF3;;;;716665, 6803143;;Baray 2009, 45
+353;Serbonnes;Le Champ Rabault;Enclos IV;Enclos circulaire;;;;;;;12;12.0000001;ND;;167.2;;716859, 6803176;;Baray 2009, 54
+350;Serbonnes;Le Champ Rabault;Enclos III;Enclos ovale;;;;;*;;;0.0000001;BF3;21,0 x 14,8;241;;716518, 6803053;;Baray 2009, 46
+352;Serbonnes;Le Champ Rabault;Enclos II;Enclos sub-circulaire;;;;;*;;;0.0000001;BF3;16,0 x 14,0;;;716666, 6803168;;Baray 2009, 46
+360;Soucy;Mocques Bouteilles;E 7 bis;Double enclos circulaire;;;*;;*;;27.3;27.3000001;BF1;;;;725222, 6794564;;Baray, Deffressigne et al. 1994
+367;Soucy;Mocques Bouteilles; E 21 bis;Double enclos circulaire;;;;;*;;20.5;20.5000001;BF3;;357.6;;725326, 6794508;;Baray, Deffressigne et al. 1994
+359;Soucy;Mocques Bouteilles;E 7;Enclos circulaire interne;;;;;*;;19.4;19.4000001;BF3;;;;725222, 6794564;;Baray, Deffressigne et al. 1994
+365;Soucy;Mocques Bouteilles;E 20;Enclos circulaire;;;;;;*;19;19.0000001;FE1;;;;725315, 6794540;;Baray, Deffressigne et al. 1994
+366;Soucy;Mocques Bouteilles;E 21;Enclos circulaire interne;;;;;*;;17.3;17.3000001;BF3;;;;725326, 6794507;;Baray, Deffressigne et al. 1994
+362;Soucy;Mocques Bouteilles;E 26;Double enclos circulaire;;;;;;;15.5;15.5000001;ND;;2.5;Le fossé extérieur empiète sur le fossé interne;725261, 6794499;;Baray, Deffressigne et al. 1994
+361;Soucy;Mocques Bouteilles;E 19;Enclos circulaire;;;;;;;15;15.0000001;ND;;247.7;L’entrée aménagée avec deux poteaux;725241, 6794525;;Baray, Deffressigne et al. 1994
+356;Soucy;Mocques Bouteilles;E 6;Double enclos circulaire;;;;;;;14.1;14.1000001;ND;;;Un fossé se présente comme une rigole peu profonde;725204, 6794547;;Baray, Deffressigne et al. 1994
+363;Soucy;Mocques Bouteilles;E 16;Enclos circulaire;;;;;*;;12.5;12.5000001;BF3;;;;725295, 6794537;;Baray, Deffressigne et al. 1994
+368;Soucy;Mocques Bouteilles;E 3;Enclos circulaire;;;;;*;;12;12.0000001;BF3;;311.4;;725332, 6794594;;Baray, Deffressigne et al. 1994
+358;Soucy;Mocques Bouteilles;E 27;Enclos circulaire;;;;;;;11.9;11.9000001;ND;;;;725220, 6794497;;Baray, Deffressigne et al. 1994
+355;Soucy;Mocques Bouteilles;E 6;Enclos circulaire interne;;;;;;;11.7;11.7000001;ND;;;;725204, 6794547;;Baray, Deffressigne et al. 1994
+354;Soucy;Mocques Bouteilles;E 10;Enclos circulaire;;;;;*;;11.5;11.5000001;BF3;;;;725198, 6794580;;Baray, Deffressigne et al. 1994
+370;Soucy;Mocques Bouteilles;E 2;Enclos circulaire;;;;;;;11.5;11.5000001;ND;;;Traces de palissade;725345, 6794584;;Baray, Deffressigne et al. 1994
+372;Soucy;Mocques Bouteilles;E 25;Enclos circulaire;;;;;;;11;11.0000001;ND;;;;725353, 6794524;;Baray, Deffressigne et al. 1994
+373;Soucy;Mocques Bouteilles;E 1;Enclos circulaire;;;;;*;;10.6;10.6000001;BF3;;;Traces de palissade dans le fossé;725357, 6794562;;Baray, Deffressigne et al. 1994
+357;Soucy;Mocques Bouteilles;E 11;Enclos circulaire;;;;;;;9.6;9.6000001;ND;;;;725218, 6794583;;Baray, Deffressigne et al. 1994
+369;Soucy;Mocques Bouteilles;E 24;Enclos circulaire;;;;;*;*;9.3;9.3000001;BF3;;;;725339, 6794523;;Baray, Deffressigne et al. 1994
+364;Soucy;Mocques Bouteilles;E 23;Enclos circulaire;;;;;;;9;9.0000001;ND;;;;725311, 6794518;;Baray, Deffressigne et al. 1994
+371;Soucy;Mocques Bouteilles;E 17;Enclos circulaire;;;;;*;;9;9.0000001;BF3;;;;725347, 6794550;;Baray, Deffressigne et al. 1994
+375;Varennes-sur-Seine; Le Marais du Pont;E 3;Enclos circulaire;;;;;;;22;22.0000001;ND;;;;696679, 6807948;;"Gouge, Mordant et al. 1994; Gouge & Peake 2005"
+374;Varennes-sur-Seine; Le Marais du Pont;E 1;Double enclos circulaire;;*;;;;;16.5;16.5000001;BAM;;;;696640, 6807998;;"Gouge, Mordant et al. 1994; Gouge & Peake 2005"
+376;Varennes-sur-Seine; Le Marais du Pont;E 2;Enclos circulaire;;;;;;;10;10.0000001;ND;;;;696679, 6807984;;"Gouge, Mordant et al. 1994; Gouge & Peake 2005"
+377;Varennes-sur-Seine;Le Marais du Pont;E 1 bis;Enclos circulaire interne;;*;;;;;6.9;6.9000001;BAM;;;;696637, 6807998;;"Gouge, Mordant et al. 1994; Gouge & Peake 2005"
+378;Villemanoche;Le Champ d'Eau;NN;Enclos circulaire;;;;;*;;15;15.0000001;BF3;;;;714154, 6800221;;Baray 2009, 57
+379;Villemanoche;Le Vieux Cimitière;E 2;Enclos circulaire;;;;;;;13;13.0000001;ND;;;;713189, 6800097;;Baray 2009, 56–57
+405;Villeneuve-la-Guyard;Les Falaises de Prépoux;159 / AB;Enclos quadrangulaire;;;;*;;;22.9;22.9000001;BF2;;;;705575, 6806065;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+385;Villeneuve-la-Guyard;Les Falaises de Prépoux;28 / E;Enclos circulaire;;;;;;;22.5;22.5000001;ND;;25.8;;705406, 6806053;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+391;Villeneuve-la-Guyard;Les Falaises de Prépoux;50 / O, O';Double enclos circulaire;;;;;;;20;20.0000001;ND;;;;705447, 6806142;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+401;Villeneuve-la-Guyard;Les Falaises de Prépoux;178 / AE;Enclos circulaire;;;;*;;;18.8;18.8000001;BF2;;59;;705561, 6806142;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+396;Villeneuve-la-Guyard;Les Falaises de Prépoux;87;Enclos quadrangulaire;;;;;;;18.5;18.5000001;ND;;3.5;;705503, 6806049;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+398;Villeneuve-la-Guyard;Les Falaises de Prépoux;82 / R;Enclos circulaire;;;;;;;18.4;18.4000001;ND;;;;705533, 6806144;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+384;Villeneuve-la-Guyard;Les Falaises de Prépoux;107 / X;Enclos circulaire;;;;;;;16.3;16.3000001;ND;;;;705396, 6806132;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+387;Villeneuve-la-Guyard;Les Falaises de Prépoux;26 / G;Enclos circulaire;;;;;;;15.5;15.5000001;ND;;90.4;;705435, 6806061;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+406;Villeneuve-la-Guyard;Les Falaises de Prépoux;168 / AD;Enclos circulaire;;;;*;;;15;15.0000001;BF2;;;;705579, 6806091;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+383;Villeneuve-la-Guyard;Les Falaises de Prépoux;16 / D;Enclos circulaire;;;;;;;14.6;14.6000001;ND;;;Structure mal conservée;705351, 6806080;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+403;Villeneuve-la-Guyard;Les Falaises de Prépoux;169 / AC;Enclos circulaire;;;;;;;14.3;14.3000001;ND;;324.6;;705568, 6806097;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+408;Villeneuve-la-Guyard;Les Falaises de Prépoux;E 2;Enclos ovale;;;*;;;;13.8;13.8000001;BF1;;11.9;;705698, 6806142;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+389;Villeneuve-la-Guyard;Les Falaises de Prépoux;37 / N;Enclos circulaire;;;;;;*;13.5;13.5000001;FE1;;26.2;;705445, 6806123;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+400;Villeneuve-la-Guyard;Les Falaises de Prépoux;117;Enclos circulaire;;;;;;;13.4;13.4000001;ND;;270.5;;705537, 6806032;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+382;Villeneuve-la-Guyard;Les Falaises de Prépoux;15 / A;Enclos circulaire;;;;;;*;12.5;12.5000001;FE1;;135.2;;705342, 6806091;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+388;Villeneuve-la-Guyard;Les Falaises de Prépoux;36 / H;Enclos circulaire;;;;*;;;12;12.0000001;BF2;;;;705443, 6806076;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+393;Villeneuve-la-Guyard;Les Falaises de Prépoux;78 / J;Enclos circulaire;;;;*;;;12;12.0000001;BF2;;256.4;;705473, 6806076;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+399;Villeneuve-la-Guyard;Les Falaises de Prépoux;118 / Y;Enclos circulaire;;;;;;;11.8;11.8000001;ND;;5.3;;705535, 6806063;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+381;Villeneuve-la-Guyard;Les Falaises de Prépoux;14 / C;Enclos circulaire;;;;;;;11.5;11.5000001;ND;;10.6;;705331, 6806075;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+380;Villeneuve-la-Guyard;Les Falaises de Prépoux;13 / B;Enclos circulaire;;;;;;*;11.3;11.3000001;FE1;;29.6;;705325, 6806058;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+397;Villeneuve-la-Guyard;Les Falaises de Prépoux;82 bis / Q;Enclos circulaire;;;;;;;11;11.0000001;ND;;105.4;;705524, 6806138;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+386;Villeneuve-la-Guyard;Les Falaises de Prépoux;29 / F;Enclos circulaire;;;;;;;10;10.0000001;ND;;;;705423, 6806055;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+390;Villeneuve-la-Guyard;Les Falaises de Prépoux;35 / L;Enclos circulaire;;;;;;;9.8;9.8000001;ND;;;;705447, 6806096;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+395;Villeneuve-la-Guyard;Les Falaises de Prépoux;81 / P;Enclos circulaire;;;;*;;;9.8;9.8000001;BF2;;177.5;;705491, 6806117;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+404;Villeneuve-la-Guyard;Les Falaises de Prépoux;251 / AA;Enclos circulaire;;;;;;;8.3;8.3000001;ND;;262.6;;705571, 6806044;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+407;Villeneuve-la-Guyard;Les Falaises de Prépoux;E 1;Enclos circulaire;;;*;;;;7;7.0000001;BF1;;;;705684, 6806108;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+402;Villeneuve-la-Guyard;Les Falaises de Prépoux;174 / AC';Enclos circulaire;;;;;;;5.9;5.9000001;ND;;175.5;;705567, 6806097;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+392;Villeneuve-la-Guyard;Les Falaises de Prépoux;80 / K;Enclos circulaire;;;;;;;5.7;5.7000001;ND;;181.6;;705461, 6806054;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+394;Villeneuve-la-Guyard;Les Falaises de Prépoux;79 / I;Enclos circulaire;;;;;;;4.3;4.3000001;ND;;172.6;;705477, 6806063;;"Mordant et al. 1979; Prestreau 1992; Muller 1996; Baray 2009"
+415;Villeneuve-sur-Yonne;Plaine des Egriselles;E 5;Enclos circulaire;;;;;;;14.1;14.1000001;ND;;;;721244, 6774009;;"Thêvenot 1985, 208; Roscio 2011"
+413;Villeneuve-sur-Yonne;Plaine des Egriselles;E 8;Enclos circulaire;;;;;;;12.7;12.7000001;ND;;111.7;;721207, 6774018;;"Thêvenot 1985, 208; Roscio 2011"
+409;Villeneuve-sur-Yonne;Plaine des Egriselles;E 7;Enclos circulaire;;;;;;;10.2;10.2000001;ND;;;;721186, 6773984;;"Thêvenot 1985, 208; Roscio 2011"
+410;Villeneuve-sur-Yonne;Plaine des Egriselles;E 10;Enclos circulaire;;;;;;;10;10.0000001;ND;;56.8;;721194, 6774024;;"Thêvenot 1985, 208; Roscio 2011"
+411;Villeneuve-sur-Yonne;Plaine des Egriselles;E 18;Enclos circulaire;;;;;;;9;9.0000001;ND;;;;721200, 6774011;;"Thêvenot 1985, 208; Roscio 2011"
+414;Villeneuve-sur-Yonne;Plaine des Egriselles;E 6;Enclos circulaire;;;;;;;8.9;8.9000001;ND;;;;721210, 6774003;;"Thêvenot 1985, 208; Roscio 2011"
+412;Villeneuve-sur-Yonne;Plaine des Egriselles;E 4;Enclos circulaire;;;;;;;;0.0000001;ND;;71.7;;721204, 6773965;;"Thêvenot 1985, 208; Roscio 2011"
+416;Villeperrot;Le Haut des Longues;M;Enclos circulaire;;;;;;;16.1;16.1000001;ND;;;;717015, 6795095;;Baray 2009, 68
+417;Ville-Saint-Jacques;Le Fond des Vallées / Le Bois d'Echalas;St. 2030;Enclos circulaire;;;*;;;;19.7;19.7000001;BF1;;;;693015, 6806366;;Issenmann 2009
+418;Vimpelles;La Ferme de Chanteclaire;E 1;Enclos circulaire;;;;;;;17.7;17.7000001;ND;;352.6;;711279, 6815323;;Gouge, Mordant et al. 1994
+419;Vimpelles;La Ferme de Chanteclaire;E 3;Enclos circulaire;;;;;;;16.8;16.8000001;ND;;159.1;;711319, 6815362;;Gouge, Mordant et al. 1994
+420;Vimpelles;La Ferme de Chanteclaire;E 4;Enclos circulaire;;;;;;;12.2;12.2000001;ND;;153.2;;711324, 6815376;;Gouge, Mordant et al. 1994
+423;Vinneuf;Les Presles;E 3;Enclos circulaire;;;*;;;;18;18.0000001;BF1;;;;708355, 6805593;;Carré & Mordant 1988
+424;Vinneuf;Les Presles;E 4;Enclos circulaire;;;;;;;17;17.0000001;ND;;;;708410, 6805564;;Carré & Mordant 1988
+421;Vinneuf;Les Presles;E 2;Enclos circulaire;;;*;;;;10;10.0000001;BF1;;;;708041, 6806079;;Carré & Mordant 1988
+422;Vinneuf;Les Presles;E 1;Enclos circulaire;;;*;;;;7;7.0000001;BF1;;;;708044, 6806114;;Carré & Mordant 1988
+425;Vinneuf;Les Presles;E 5;Enclos circulaire;;;*;;;;;0.0000001;BF1;;;;708658, 6805450;;Carré & Mordant 1988
